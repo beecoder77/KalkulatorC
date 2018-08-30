@@ -1,0 +1,10 @@
+D:\Projek\KK3\Kalkulator_abito\Kalkulator_abito\bin\Debug\Kalkulator_abito.exe.config
+D:\Projek\KK3\Kalkulator_abito\Kalkulator_abito\bin\Debug\Kalkulator_abito.exe
+D:\Projek\KK3\Kalkulator_abito\Kalkulator_abito\bin\Debug\Kalkulator_abito.pdb
+D:\Projek\KK3\Kalkulator_abito\Kalkulator_abito\obj\Debug\Kalkulator_abito.csprojAssemblyReference.cache
+D:\Projek\KK3\Kalkulator_abito\Kalkulator_abito\obj\Debug\Kalkulator_abito.Form1.resources
+D:\Projek\KK3\Kalkulator_abito\Kalkulator_abito\obj\Debug\Kalkulator_abito.Properties.Resources.resources
+D:\Projek\KK3\Kalkulator_abito\Kalkulator_abito\obj\Debug\Kalkulator_abito.csproj.GenerateResource.cache
+D:\Projek\KK3\Kalkulator_abito\Kalkulator_abito\obj\Debug\Kalkulator_abito.csproj.CoreCompileInputs.cache
+D:\Projek\KK3\Kalkulator_abito\Kalkulator_abito\obj\Debug\Kalkulator_abito.exe
+D:\Projek\KK3\Kalkulator_abito\Kalkulator_abito\obj\Debug\Kalkulator_abito.pdb
